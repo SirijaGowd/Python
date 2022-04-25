@@ -58,3 +58,13 @@ bcd = 330
 print("A") if abc > bcd else print("B")
 print("=============================")
 
+# ================
+
+fruit = ("apple","pineapple","Banana")
+if "mango" in fruit:
+ print("yes")
+else:
+ print("No")
+ print("=============================")
+
+# ================
