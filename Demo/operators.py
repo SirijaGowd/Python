@@ -36,8 +36,7 @@ V = 80
 
 # OR
 if K < V or V<K:
-    print("80 lessthan 90", print("At least one of the conditions is True")
-)
+    print("80 lessthan 90", print("At least one of the conditions is True"))
 #AND
 if V < P and K>V:
  print("Both conditions True if we use 'add'")
