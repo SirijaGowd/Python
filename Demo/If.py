@@ -11,7 +11,7 @@ elif A==100:
  print("Equal")
 else:
  print("newwww")
-print("========================")
+print("-----------------------------------")
 ###=========== if -> if -> elif -> (verifies the statements )
 
 x = 200
@@ -24,7 +24,7 @@ if (x>z):
  print("True")
 elif (x==20):
  print("Equals to 200")
-print("========================")
+print("-----------------------------------")
 #==============if -> else (Compares only )
 
 #age = int (input())
@@ -36,27 +36,27 @@ elif age >= 20:
  print("double else")
 else:
  print("age is",age)
-print("========================")
+print("-----------------------------------")
 #========== 
 
 a = 10
 b = 20 
 if a<b or a==100:
  print("10 lesser than 20")
- print("========================")
+print("-----------------------------------")
 
 # ================
 
 ab = "sirija"
 cd = "kasi"
-print("full name") if ab == "siri" else print("not full name"+ '\n',"===========================" )
+print("full name") if ab == "siri" else print("not full name"+ '\n',"-----------------------------------")
 
 # ================
 
 abc = 2
 bcd = 330
 print("A") if abc > bcd else print("B")
-print("=============================")
+print("-----------------------------------")
 
 # ================
 
@@ -65,6 +65,6 @@ if "mango" in fruit:
  print("yes")
 else:
  print("No")
- print("=============================")
+ print("-----------------------------------")
 
-# ================
+# =========================
